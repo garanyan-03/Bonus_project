@@ -5,7 +5,7 @@ You enter a time in (hours:minutes:seconds) format, and the program counts down 
 
 What I Used
 - Python
-- time library — to wait 1 second between each line
-- split() — to separate the input into hours, minutes, seconds
-- While loop — to keep counting down
-- Functions — to organize the code
+- time library to wait 1 second between each line
+- split() to separate the input into hours, minutes, seconds
+- While loop to keep counting
+- Functions
