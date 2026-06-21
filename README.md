@@ -1,6 +1,6 @@
 # Bonus_project
 A simple timer built with Python.
-You enter a time in (hours:minutes:seconds) format, and the program counts down to 00:00:00 — one second at a time.
+You enter a time in (hours:minutes:seconds) format, and the program counts down to 00:00:00, one second at a time.
 
 
 What I Used
